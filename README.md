@@ -4,13 +4,11 @@ Simple chat in Java. This is not meant to be a showcase of anything. I'm simply 
 
 ### Quick Start
 
-Compile the two java files into java bytecode:
 ```console
-$ javac client.java
-$ javac server.java
+$ ./build.sh
 ```
 
-Run the server program, then run the client program:
+Run the server program, then run the client as many times as you want:
 ```console
 $ java server
 ```
